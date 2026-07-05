@@ -147,6 +147,11 @@ The project can be extended with additional modules such as:
 
 The schema for these entities is already defined in the database layer.
 
+## TODO
+
+- [ ] Update the logging system to provide a more consistent and structured logging strategy across the application.
+- [ ] Revisit the error code system to standardize error definitions and response handling across all modules.
+
 ## License
 
 Internal project.
