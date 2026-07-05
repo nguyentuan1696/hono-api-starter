@@ -1,0 +1,6 @@
+{
+  "name": "thichlab-backend-mewtwo",
+  "main": "src/main.ts",
+  "compatibility_date": "2026-06-24",
+  "compatibility_flags": [ "nodejs_compat" ]
+}
